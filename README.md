@@ -79,4 +79,4 @@ Contributions are welcome! Feel free to fork the repo, submit issues, or create 
 
 ## ✨ Author
 
-Made with 💡 by [Your Name Here]
+Made with 💡 by Saurabh Singh Bhandari
